@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# Halo semua! 
+
+Perkenalkan nama saya **Arrafi Syifa Mukhtafaq**.<br>
+
+Saya seorang **Machine Learning Cohort** di [Bangkit 2024](https://grow.google/intl/id_id/bangkit/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arrafi-syifa-mukhtafaq-600214220/)ku ya.
 <!--
 **arrafisyifamukhtafaq/arrafisyifamukhtafaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
